@@ -23,7 +23,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0 font-extrabold text-2xl tracking-wide cursor-pointer">
-            <Link href="/">MyLogo</Link>
+            <Link href="/">Chat-app</Link>
           </div>
 
           {/* Desktop Menu */}
